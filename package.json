@@ -1,0 +1,19 @@
+{
+  "name": "trabajonodejs",
+  "version": "1.0.0",
+  "description": "trabajonodejs",
+  "main": "ejemplo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanfer1975/trabajonodejs.git"
+  },
+  "author": "juan fernando fernandez juanff@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanfer1975/trabajonodejs/issues"
+  },
+  "homepage": "https://github.com/juanfer1975/trabajonodejs#readme"
+}
