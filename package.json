@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/juanfer1975/trabajonodejs#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "yargs": "^13.2.4"
   }
 }

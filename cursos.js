@@ -10,14 +10,3 @@ cursos1.cursos.forEach(function(data) {
 	  console.log(txt);
 	},2000)
 });
-
-
-/*let mostrar=(a,b,callback)=>{
-	setTimeout(function() {
-		callback(a*b);
-	},2000)
-}
-calcular(20,5,function(x){
-	console.log(x);
-});
-*/
